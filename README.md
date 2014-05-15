@@ -6,7 +6,7 @@ at various price points?  Do you care most about single-threaded performance
 or overall multi-core performance?  This scatter plot of CPU price vs
 performance has you covered!
 
-I wrote about the features of this on [my blog](http://jcward.com/CPU+Performance+AMD+is+MIA), and you can find a live version of the graph at [jcward.com/cpu_graph](http://jcward.com/cpu_graph)
+I wrote about the features of this on [my blog](http://jcward.com/CPU+Performance+AMD+is+MIA), and you can find a live version of the graph at [jcward.com/cpu_graph/](http://jcward.com/cpu_graph/)
 
 Data is downloaded from the fabulous
 [cpubenchmark.net](http://www.cpubenchmark.net/) - if you're buying a CPU,
